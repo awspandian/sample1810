@@ -2,3 +2,5 @@ git add
 git commit 
 git push
 git log
+
+this is modified from hub
